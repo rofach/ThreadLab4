@@ -1,0 +1,14 @@
+D:\projects\ThreadLab4\ThreadLab4C#\ThreadLab4\ThreadLab4WithWaiter\obj\Debug\net8.0\ThreadLab4WithWaiter.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\ThreadLab4\ThreadLab4C#\ThreadLab4\ThreadLab4WithWaiter\obj\Debug\net8.0\ThreadLab4WithWaiter.AssemblyInfoInputs.cache
+D:\projects\ThreadLab4\ThreadLab4C#\ThreadLab4\ThreadLab4WithWaiter\obj\Debug\net8.0\ThreadLab4WithWaiter.AssemblyInfo.cs
+D:\projects\ThreadLab4\ThreadLab4C#\ThreadLab4\ThreadLab4WithWaiter\obj\Debug\net8.0\ThreadLab4WithWaiter.csproj.CoreCompileInputs.cache
+D:\projects\ThreadLab4\ThreadLab4C#\ThreadLab4\ThreadLab4WithWaiter\bin\Debug\net8.0\ThreadLab4WithWaiter.exe
+D:\projects\ThreadLab4\ThreadLab4C#\ThreadLab4\ThreadLab4WithWaiter\bin\Debug\net8.0\ThreadLab4WithWaiter.deps.json
+D:\projects\ThreadLab4\ThreadLab4C#\ThreadLab4\ThreadLab4WithWaiter\bin\Debug\net8.0\ThreadLab4WithWaiter.runtimeconfig.json
+D:\projects\ThreadLab4\ThreadLab4C#\ThreadLab4\ThreadLab4WithWaiter\bin\Debug\net8.0\ThreadLab4WithWaiter.dll
+D:\projects\ThreadLab4\ThreadLab4C#\ThreadLab4\ThreadLab4WithWaiter\bin\Debug\net8.0\ThreadLab4WithWaiter.pdb
+D:\projects\ThreadLab4\ThreadLab4C#\ThreadLab4\ThreadLab4WithWaiter\obj\Debug\net8.0\ThreadLab4WithWaiter.dll
+D:\projects\ThreadLab4\ThreadLab4C#\ThreadLab4\ThreadLab4WithWaiter\obj\Debug\net8.0\refint\ThreadLab4WithWaiter.dll
+D:\projects\ThreadLab4\ThreadLab4C#\ThreadLab4\ThreadLab4WithWaiter\obj\Debug\net8.0\ThreadLab4WithWaiter.pdb
+D:\projects\ThreadLab4\ThreadLab4C#\ThreadLab4\ThreadLab4WithWaiter\obj\Debug\net8.0\ThreadLab4WithWaiter.genruntimeconfig.cache
+D:\projects\ThreadLab4\ThreadLab4C#\ThreadLab4\ThreadLab4WithWaiter\obj\Debug\net8.0\ref\ThreadLab4WithWaiter.dll

@@ -1,0 +1,14 @@
+D:\projects\ThreadLab4\ThreadLab4C#\ThreadLab4\ThreadLab4\bin\Debug\net8.0\ThreadLab4.exe
+D:\projects\ThreadLab4\ThreadLab4C#\ThreadLab4\ThreadLab4\bin\Debug\net8.0\ThreadLab4.deps.json
+D:\projects\ThreadLab4\ThreadLab4C#\ThreadLab4\ThreadLab4\bin\Debug\net8.0\ThreadLab4.runtimeconfig.json
+D:\projects\ThreadLab4\ThreadLab4C#\ThreadLab4\ThreadLab4\bin\Debug\net8.0\ThreadLab4.dll
+D:\projects\ThreadLab4\ThreadLab4C#\ThreadLab4\ThreadLab4\bin\Debug\net8.0\ThreadLab4.pdb
+D:\projects\ThreadLab4\ThreadLab4C#\ThreadLab4\ThreadLab4\obj\Debug\net8.0\ThreadLab4.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\ThreadLab4\ThreadLab4C#\ThreadLab4\ThreadLab4\obj\Debug\net8.0\ThreadLab4.AssemblyInfoInputs.cache
+D:\projects\ThreadLab4\ThreadLab4C#\ThreadLab4\ThreadLab4\obj\Debug\net8.0\ThreadLab4.AssemblyInfo.cs
+D:\projects\ThreadLab4\ThreadLab4C#\ThreadLab4\ThreadLab4\obj\Debug\net8.0\ThreadLab4.csproj.CoreCompileInputs.cache
+D:\projects\ThreadLab4\ThreadLab4C#\ThreadLab4\ThreadLab4\obj\Debug\net8.0\ThreadLab4.dll
+D:\projects\ThreadLab4\ThreadLab4C#\ThreadLab4\ThreadLab4\obj\Debug\net8.0\refint\ThreadLab4.dll
+D:\projects\ThreadLab4\ThreadLab4C#\ThreadLab4\ThreadLab4\obj\Debug\net8.0\ThreadLab4.pdb
+D:\projects\ThreadLab4\ThreadLab4C#\ThreadLab4\ThreadLab4\obj\Debug\net8.0\ThreadLab4.genruntimeconfig.cache
+D:\projects\ThreadLab4\ThreadLab4C#\ThreadLab4\ThreadLab4\obj\Debug\net8.0\ref\ThreadLab4.dll

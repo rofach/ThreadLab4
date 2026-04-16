@@ -1,0 +1,33 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ThreadLab4
+{
+    public class Table
+    {
+        private readonly Semaphore[] _forks = new Semaphore[5];
+
+        public Table()
+        {
+            for (int i = 0; i < _forks.Length; i++)
+            {
+                _forks[i] = new Semaphore(1, 1);
+            }
+        }
+
+        public void getFork(int id)
+        {
+            _forks[id].WaitOne();
+
+        }
+
+        public void putFork(int id)
+        {
+            _forks[id].Release();
+        }
+
+    }
+}

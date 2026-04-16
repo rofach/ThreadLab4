@@ -1,0 +1,14 @@
+D:\projects\ThreadLab4\ThreadLab4C#\ThreadLab4\ThreadLab4WithMonitor\bin\Debug\net8.0\ThreadLab4WithMonitor.exe
+D:\projects\ThreadLab4\ThreadLab4C#\ThreadLab4\ThreadLab4WithMonitor\bin\Debug\net8.0\ThreadLab4WithMonitor.deps.json
+D:\projects\ThreadLab4\ThreadLab4C#\ThreadLab4\ThreadLab4WithMonitor\bin\Debug\net8.0\ThreadLab4WithMonitor.runtimeconfig.json
+D:\projects\ThreadLab4\ThreadLab4C#\ThreadLab4\ThreadLab4WithMonitor\bin\Debug\net8.0\ThreadLab4WithMonitor.dll
+D:\projects\ThreadLab4\ThreadLab4C#\ThreadLab4\ThreadLab4WithMonitor\bin\Debug\net8.0\ThreadLab4WithMonitor.pdb
+D:\projects\ThreadLab4\ThreadLab4C#\ThreadLab4\ThreadLab4WithMonitor\obj\Debug\net8.0\ThreadLab4WithMonitor.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\ThreadLab4\ThreadLab4C#\ThreadLab4\ThreadLab4WithMonitor\obj\Debug\net8.0\ThreadLab4WithMonitor.AssemblyInfoInputs.cache
+D:\projects\ThreadLab4\ThreadLab4C#\ThreadLab4\ThreadLab4WithMonitor\obj\Debug\net8.0\ThreadLab4WithMonitor.AssemblyInfo.cs
+D:\projects\ThreadLab4\ThreadLab4C#\ThreadLab4\ThreadLab4WithMonitor\obj\Debug\net8.0\ThreadLab4WithMonitor.csproj.CoreCompileInputs.cache
+D:\projects\ThreadLab4\ThreadLab4C#\ThreadLab4\ThreadLab4WithMonitor\obj\Debug\net8.0\ThreadLab4WithMonitor.dll
+D:\projects\ThreadLab4\ThreadLab4C#\ThreadLab4\ThreadLab4WithMonitor\obj\Debug\net8.0\refint\ThreadLab4WithMonitor.dll
+D:\projects\ThreadLab4\ThreadLab4C#\ThreadLab4\ThreadLab4WithMonitor\obj\Debug\net8.0\ThreadLab4WithMonitor.pdb
+D:\projects\ThreadLab4\ThreadLab4C#\ThreadLab4\ThreadLab4WithMonitor\obj\Debug\net8.0\ThreadLab4WithMonitor.genruntimeconfig.cache
+D:\projects\ThreadLab4\ThreadLab4C#\ThreadLab4\ThreadLab4WithMonitor\obj\Debug\net8.0\ref\ThreadLab4WithMonitor.dll

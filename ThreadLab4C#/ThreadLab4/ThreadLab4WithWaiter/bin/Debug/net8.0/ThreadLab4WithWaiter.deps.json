@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ThreadLab4WithWaiter/1.0.0": {
+        "runtime": {
+          "ThreadLab4WithWaiter.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ThreadLab4WithWaiter/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

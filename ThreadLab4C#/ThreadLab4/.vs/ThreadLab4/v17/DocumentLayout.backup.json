@@ -1,0 +1,218 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\projects\\ThreadLab4\\ThreadLab4C#\\ThreadLab4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{53346A30-31AF-4159-8F31-5BB3E7A55932}|ThreadLab4WithWaiter\\ThreadLab4WithWaiter.csproj|d:\\projects\\threadlab4\\threadlab4c#\\threadlab4\\threadlab4withwaiter\\philosopher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53346A30-31AF-4159-8F31-5BB3E7A55932}|ThreadLab4WithWaiter\\ThreadLab4WithWaiter.csproj|solutionrelative:threadlab4withwaiter\\philosopher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53346A30-31AF-4159-8F31-5BB3E7A55932}|ThreadLab4WithWaiter\\ThreadLab4WithWaiter.csproj|d:\\projects\\threadlab4\\threadlab4c#\\threadlab4\\threadlab4withwaiter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53346A30-31AF-4159-8F31-5BB3E7A55932}|ThreadLab4WithWaiter\\ThreadLab4WithWaiter.csproj|solutionrelative:threadlab4withwaiter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53346A30-31AF-4159-8F31-5BB3E7A55932}|ThreadLab4WithWaiter\\ThreadLab4WithWaiter.csproj|d:\\projects\\threadlab4\\threadlab4c#\\threadlab4\\threadlab4withwaiter\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53346A30-31AF-4159-8F31-5BB3E7A55932}|ThreadLab4WithWaiter\\ThreadLab4WithWaiter.csproj|solutionrelative:threadlab4withwaiter\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10170366-A086-4934-B2B8-B13145D674F4}|ThreadLab4WithMonitor\\ThreadLab4WithMonitor.csproj|d:\\projects\\threadlab4\\threadlab4c#\\threadlab4\\threadlab4withmonitor\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10170366-A086-4934-B2B8-B13145D674F4}|ThreadLab4WithMonitor\\ThreadLab4WithMonitor.csproj|solutionrelative:threadlab4withmonitor\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10170366-A086-4934-B2B8-B13145D674F4}|ThreadLab4WithMonitor\\ThreadLab4WithMonitor.csproj|d:\\projects\\threadlab4\\threadlab4c#\\threadlab4\\threadlab4withmonitor\\philosopher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10170366-A086-4934-B2B8-B13145D674F4}|ThreadLab4WithMonitor\\ThreadLab4WithMonitor.csproj|solutionrelative:threadlab4withmonitor\\philosopher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10170366-A086-4934-B2B8-B13145D674F4}|ThreadLab4WithMonitor\\ThreadLab4WithMonitor.csproj|d:\\projects\\threadlab4\\threadlab4c#\\threadlab4\\threadlab4withmonitor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10170366-A086-4934-B2B8-B13145D674F4}|ThreadLab4WithMonitor\\ThreadLab4WithMonitor.csproj|solutionrelative:threadlab4withmonitor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C9823E0-25D3-4C60-8ECA-E19603ACADE1}|ThreadLab4\\ThreadLab4.csproj|d:\\projects\\threadlab4\\threadlab4c#\\threadlab4\\threadlab4\\philosopher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C9823E0-25D3-4C60-8ECA-E19603ACADE1}|ThreadLab4\\ThreadLab4.csproj|solutionrelative:threadlab4\\philosopher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C9823E0-25D3-4C60-8ECA-E19603ACADE1}|ThreadLab4\\ThreadLab4.csproj|d:\\projects\\threadlab4\\threadlab4c#\\threadlab4\\threadlab4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C9823E0-25D3-4C60-8ECA-E19603ACADE1}|ThreadLab4\\ThreadLab4.csproj|solutionrelative:threadlab4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C9823E0-25D3-4C60-8ECA-E19603ACADE1}|ThreadLab4\\ThreadLab4.csproj|d:\\projects\\threadlab4\\threadlab4c#\\threadlab4\\threadlab4\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C9823E0-25D3-4C60-8ECA-E19603ACADE1}|ThreadLab4\\ThreadLab4.csproj|solutionrelative:threadlab4\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53346A30-31AF-4159-8F31-5BB3E7A55932}|ThreadLab4WithWaiter\\ThreadLab4WithWaiter.csproj|d:\\projects\\threadlab4\\threadlab4c#\\threadlab4\\threadlab4withwaiter\\waiter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53346A30-31AF-4159-8F31-5BB3E7A55932}|ThreadLab4WithWaiter\\ThreadLab4WithWaiter.csproj|solutionrelative:threadlab4withwaiter\\waiter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Table.cs",
+              "DocumentMoniker": "D:\\projects\\ThreadLab4\\ThreadLab4C#\\ThreadLab4\\ThreadLab4WithMonitor\\Table.cs",
+              "RelativeDocumentMoniker": "ThreadLab4WithMonitor\\Table.cs",
+              "ToolTip": "D:\\projects\\ThreadLab4\\ThreadLab4C#\\ThreadLab4\\ThreadLab4WithMonitor\\Table.cs",
+              "RelativeToolTip": "ThreadLab4WithMonitor\\Table.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T21:28:19.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\projects\\ThreadLab4\\ThreadLab4C#\\ThreadLab4\\ThreadLab4WithMonitor\\Program.cs",
+              "RelativeDocumentMoniker": "ThreadLab4WithMonitor\\Program.cs",
+              "ToolTip": "D:\\projects\\ThreadLab4\\ThreadLab4C#\\ThreadLab4\\ThreadLab4WithMonitor\\Program.cs",
+              "RelativeToolTip": "ThreadLab4WithMonitor\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T21:28:10.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Table.cs",
+              "DocumentMoniker": "D:\\projects\\ThreadLab4\\ThreadLab4C#\\ThreadLab4\\ThreadLab4WithWaiter\\Table.cs",
+              "RelativeDocumentMoniker": "ThreadLab4WithWaiter\\Table.cs",
+              "ToolTip": "D:\\projects\\ThreadLab4\\ThreadLab4C#\\ThreadLab4\\ThreadLab4WithWaiter\\Table.cs",
+              "RelativeToolTip": "ThreadLab4WithWaiter\\Table.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T11:16:36.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Waiter.cs",
+              "DocumentMoniker": "D:\\projects\\ThreadLab4\\ThreadLab4C#\\ThreadLab4\\ThreadLab4WithWaiter\\Waiter.cs",
+              "RelativeDocumentMoniker": "ThreadLab4WithWaiter\\Waiter.cs",
+              "ToolTip": "D:\\projects\\ThreadLab4\\ThreadLab4C#\\ThreadLab4\\ThreadLab4WithWaiter\\Waiter.cs",
+              "RelativeToolTip": "ThreadLab4WithWaiter\\Waiter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T11:15:29.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Philosopher.cs",
+              "DocumentMoniker": "D:\\projects\\ThreadLab4\\ThreadLab4C#\\ThreadLab4\\ThreadLab4WithWaiter\\Philosopher.cs",
+              "RelativeDocumentMoniker": "ThreadLab4WithWaiter\\Philosopher.cs",
+              "ToolTip": "D:\\projects\\ThreadLab4\\ThreadLab4C#\\ThreadLab4\\ThreadLab4WithWaiter\\Philosopher.cs",
+              "RelativeToolTip": "ThreadLab4WithWaiter\\Philosopher.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAA4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T11:03:42.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\projects\\ThreadLab4\\ThreadLab4C#\\ThreadLab4\\ThreadLab4WithWaiter\\Program.cs",
+              "RelativeDocumentMoniker": "ThreadLab4WithWaiter\\Program.cs",
+              "ToolTip": "D:\\projects\\ThreadLab4\\ThreadLab4C#\\ThreadLab4\\ThreadLab4WithWaiter\\Program.cs",
+              "RelativeToolTip": "ThreadLab4WithWaiter\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T11:02:25.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Philosopher.cs",
+              "DocumentMoniker": "D:\\projects\\ThreadLab4\\ThreadLab4C#\\ThreadLab4\\ThreadLab4\\Philosopher.cs",
+              "RelativeDocumentMoniker": "ThreadLab4\\Philosopher.cs",
+              "ToolTip": "D:\\projects\\ThreadLab4\\ThreadLab4C#\\ThreadLab4\\ThreadLab4\\Philosopher.cs",
+              "RelativeToolTip": "ThreadLab4\\Philosopher.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T09:43:42.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Philosopher.cs",
+              "DocumentMoniker": "D:\\projects\\ThreadLab4\\ThreadLab4C#\\ThreadLab4\\ThreadLab4WithMonitor\\Philosopher.cs",
+              "RelativeDocumentMoniker": "ThreadLab4WithMonitor\\Philosopher.cs",
+              "ToolTip": "D:\\projects\\ThreadLab4\\ThreadLab4C#\\ThreadLab4\\ThreadLab4WithMonitor\\Philosopher.cs",
+              "RelativeToolTip": "ThreadLab4WithMonitor\\Philosopher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T21:28:45.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Table.cs",
+              "DocumentMoniker": "D:\\projects\\ThreadLab4\\ThreadLab4C#\\ThreadLab4\\ThreadLab4\\Table.cs",
+              "RelativeDocumentMoniker": "ThreadLab4\\Table.cs",
+              "ToolTip": "D:\\projects\\ThreadLab4\\ThreadLab4C#\\ThreadLab4\\ThreadLab4\\Table.cs",
+              "RelativeToolTip": "ThreadLab4\\Table.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T09:42:01.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\projects\\ThreadLab4\\ThreadLab4C#\\ThreadLab4\\ThreadLab4\\Program.cs",
+              "RelativeDocumentMoniker": "ThreadLab4\\Program.cs",
+              "ToolTip": "D:\\projects\\ThreadLab4\\ThreadLab4C#\\ThreadLab4\\ThreadLab4\\Program.cs",
+              "RelativeToolTip": "ThreadLab4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T09:40:40.593Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
